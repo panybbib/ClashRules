@@ -12,16 +12,23 @@ Windos系统中的使用方法
 转换规则
 
 完整配置(可直接导入使用)
+
 http://localhost:25500/sub?target=clash&insert=true&new_name=true&scv=true&url=机场订阅地址&config=自定义ini配置文件
 
 Node List配置（只包含节点信息）
+
 http://localhost:25500/sub?target=clash&insert=true&new_name=true&scv=true&url=机场订阅地址&list=true
 自用ini配置文件
 
 多国家 流媒体 自动最低延迟
+
 https://github.com/Repcz/Tool/raw/X/Clash/Premium/Online_Full_Auto.ini
+
 多国家 流媒体 手动选择
+
 https://github.com/Repcz/Tool/raw/X/Clash/Premium/Online_Full_NoAuto.ini
+
+
 Docker中的使用方法
 确保服务器可以正常访问Github
 在终端中输入
