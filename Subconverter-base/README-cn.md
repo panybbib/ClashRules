@@ -18,7 +18,6 @@ http://localhost:25500/sub?target=clash&insert=true&new_name=true&scv=true&url=�
 Node List配置（只包含节点信息）
 
 http://localhost:25500/sub?target=clash&insert=true&new_name=true&scv=true&url=机场订阅地址&list=true
-自用ini配置文件
 
 多国家 流媒体 自动最低延迟
 
